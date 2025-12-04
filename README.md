@@ -1,5 +1,5 @@
 # Manga Translator
-Locally working (offline) Manga translator JP->EN
+Locally working (offline) Manga translator JP->EN by using [Manga-ocr](https://github.com/kha-white/manga-ocr) for reading JP characters from images , [Helsinki-NLP ML model](https://huggingface.co/Helsinki-NLP/opus-mt-ja-en?inference_provider=hf-inference&text=ヤフサとキャングの全面抗争を避けるため組長の息子一一条楽」とボスの娘桐崎千穂が恋人のフリをしなければならなんなるという奇想天外な設定のプラブコスが原因である) for fast translation locally (translation speed will differ depending on hardware USING CUDA RECOMMENDED) and [ML model](https://huggingface.co/kitsumed/yolov8m_seg-speech-bubble) for detecting speech bubbles 
 
 ## Features :
 
